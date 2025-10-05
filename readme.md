@@ -1,2 +1,2 @@
-Hallo ini repo pertama saya\n
+Hallo ini repo pertama saya.
 nama saya Javier
