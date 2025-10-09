@@ -65,7 +65,7 @@ public class CM1_MJavierThufail {
                 statusSemester = "TIDAK LULUS (Rata-rata < 70)";
             }
         } else {
-            statusSemester = "TIDAK LULUS (Ada mata kuliah tidak lulus)";
+            statusSemester = "TIDAK LULUS (Rata-rata < 70)";
         } 
 
         System.out.println("\n==================== HASIL PENILAIAN AKADEMIK ====================");
