@@ -1,6 +1,7 @@
 package jobsheet7;
 
 import java.util.Scanner;
+
 public class KafeDoWhile18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
