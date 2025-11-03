@@ -8,6 +8,9 @@ public class NilaiKelompok18 {
         int nilai;
         float totalNilai, rataNilai;
 
+        float maxNilai = 0;
+        int maxKelompok = 0;
+
         int i = 1;
         while (i <= 6) {
             System.out.println("Kelompok " + i);
@@ -20,9 +23,14 @@ public class NilaiKelompok18 {
             }
 
             rataNilai = totalNilai / 5;
+            if (rataNilai > maxNilai) {
+                maxNilai = rataNilai;
+                maxKelompok = i;
+            }
             System.out.println("Kelompok " + i + ": nilai rata rata   = " + rataNilai);
             i++;
         }
+        System.out.println("\n\nKelompok " + maxKelompok + " adalah nilai tertinggi: " + maxNilai);
         sc.close();
     }
 }
