@@ -12,7 +12,7 @@ public class ArrayNilai18 {
         }
 
         for (int i = 0; i < nilaiAkhir.length; i++) {
-            System.out.println("Nilai akhir ke-"+ i +"adalah "+nilaiAkhir[i]);
+            System.out.println("Nilai akhir ke-" + i + "adalah " + nilaiAkhir[i]);
         }
         sc.close();
     }
