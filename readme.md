@@ -3,7 +3,7 @@
 **M. Javier Thufail / TI-1G**
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge)
-![Made With](https://img.shields.io/badge/MADE%20WITH-Ibennn-ff69b4?style=for-the-badge)
+![Made With](https://img.shields.io/badge/MADE%20WITH-Vierr-ff69b4?style=for-the-badge)
 ![Language](https://img.shields.io/badge/LANGUAGE-JAVA-orange?style=for-the-badge)
 
 ---
