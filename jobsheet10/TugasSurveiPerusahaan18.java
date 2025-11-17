@@ -51,7 +51,7 @@ public class TugasSurveiPerusahaan18 {
 
         System.out.println("\n----------------------------------------");
         System.out.println("       RATA-RATA PER PERTANYAAN       ");
-        System.out.println("\n----------------------------------------");
+        System.out.println("----------------------------------------");
 
         for (int pertanyaan = 0; pertanyaan < TOTAL_PERTANYAAN; pertanyaan++) {
             double totalNilaiPertanyaan = 0;
@@ -66,7 +66,7 @@ public class TugasSurveiPerusahaan18 {
 
         System.out.println("\n----------------------------------------");
         System.out.println("        RATA-RATA KESELURUHAN         ");
-        System.out.println("\n----------------------------------------"); 
+        System.out.println("----------------------------------------"); 
 
         double totalSemua = 0;
 
