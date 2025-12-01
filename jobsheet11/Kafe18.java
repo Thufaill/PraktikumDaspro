@@ -29,7 +29,7 @@ public class Kafe18 {
         System.out.println("============================\n");
     }
 
-    public static int hitungTotalPesanan(int[] pilihanMenu, int[] jumlahItem, String kodePromo) {
+    public static int hitungTotalHarga18(int[] pilihanMenu, int[] jumlahItem, String kodePromo) {
 
         int[] hargaItems = {15000, 20000, 22000, 12000, 10000, 18000};
         int total = 0;
@@ -83,7 +83,7 @@ public class Kafe18 {
         }
 
         System.out.println("--------------------------------");
-        int totalAkhir = hitungTotalPesanan(menuDipilih, jumlahItem, kodePromo);
+        int totalAkhir = hitungTotalHarga18(menuDipilih, jumlahItem, kodePromo);
         System.out.println("--------------------------------");
 
         System.out.println("Total keseluruhan pesanan: Rp " + totalAkhir);
